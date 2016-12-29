@@ -1,0 +1,3 @@
+triCluster_plot.o .deps/triCluster_plot.dep: triCluster_plot.cpp ../Escape/GraphIO.h \
+  ../Escape/ErrorCode.h ../Escape/Graph.h ../Escape/EdgeHash.h \
+  ../Escape/Digraph.h ../Escape/Triadic.h

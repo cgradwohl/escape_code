@@ -1,0 +1,3 @@
+test_triTEMP.o .deps/test_triTEMP.dep: test_triTEMP.cpp ../Escape/GraphIO.h \
+  ../Escape/ErrorCode.h ../Escape/Graph.h ../Escape/EdgeHash.h \
+  ../Escape/Digraph.h ../Escape/Triadic.h
